@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.swiftbill.pos",
+        "sha256_cert_fingerprints": ["C3:2B:50:19:67:D8:F9:21:46:EA:ED:98:46:13:C5:B4:21:19:88:FA:D8:7B:B6:92:52:67:24:3C:05:9B:CA:C7"]
+      }
+    }]
